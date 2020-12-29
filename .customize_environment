@@ -1,0 +1,5 @@
+#!/bin/sh
+apt-get update
+sudo apt-get install python3-venv
+apt-get -y install pipenv
+apt-get -y install tree
